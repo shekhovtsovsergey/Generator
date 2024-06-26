@@ -15,7 +15,7 @@ public class GenerateAndPush {
     private static final String PROJECT_DIR = "your_github_project_path"; // Замените на путь к вашему проекту
     private static final int NUM_FILES = 10; // Количество файлов для генерации
 
-    @Scheduled(fixedRate = 3600000)
+    @Scheduled(fixedRate = 60000)
     public void generateAndPush() {
         try {
             // Генерация файлов
