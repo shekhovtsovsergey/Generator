@@ -3,6 +3,5 @@ public class RandomClass_4 {
         System.out.println("Random line!");
         System.out.println("Random line!");
         System.out.println("Random line!");
-        System.out.println("Random line!");
     }
 }
